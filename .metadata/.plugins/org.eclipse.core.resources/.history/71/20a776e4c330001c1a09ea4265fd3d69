@@ -1,0 +1,9 @@
+@RunWith(CucumberOptions.class)
+@CucumberOptions(
+		features = "pageObjects"
+		,glue={"stepDefinition"}
+		)
+
+public class Runner {
+
+}

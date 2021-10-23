@@ -1,0 +1,14 @@
+package collectionConcepts;
+
+public class Honda extends Bike {
+	 int speedlimit=150;  
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Bike obj=new Bike();  
+		  System.out.println(obj.speedlimit);//90  
+
+	}
+
+}

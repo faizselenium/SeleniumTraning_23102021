@@ -1,0 +1,13 @@
+package cucumberRunner;
+
+import cucumber.api.CucumberOptions;
+
+@RunWith(CucumberOptions.class)
+@CucumberOptions(
+		features = "Feature"
+		,glue={"stepDefinition"}
+		)
+
+public class TestRunner {
+
+}

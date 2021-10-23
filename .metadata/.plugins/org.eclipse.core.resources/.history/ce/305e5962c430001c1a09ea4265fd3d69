@@ -1,0 +1,13 @@
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+
+@RunWith(CucumberOptions.class)
+@CucumberOptions(
+		features = "pageObjects"
+		,glue={"stepDefinition"}
+		)
+
+public class TestRunner {
+
+}

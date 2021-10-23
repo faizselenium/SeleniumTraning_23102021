@@ -1,0 +1,5 @@
+package collectionConcepts;
+
+public interface SecondInterfcae {
+
+}

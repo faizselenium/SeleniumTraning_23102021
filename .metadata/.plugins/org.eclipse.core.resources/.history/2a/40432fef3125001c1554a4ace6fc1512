@@ -1,0 +1,39 @@
+package collectionConcepts;
+
+import java.util.*;  
+class rough{  
+public static void main(String args[]){  
+List<String> list=new ArrayList<String>();//Creating arraylist  
+list.add("First");//Adding object in arraylist  
+list.add("Vijay");  
+list.add("Ravi");  
+list.add("ravi"); 
+list.add("Ajay");  
+//Traversing list through Iterator  
+//Iterator<String> itr=list.iterator();  
+//while(itr.hasNext()){  
+//System.out.println(itr.next()); 
+//System.out.println(list.get(0));
+//list.set(0, "updated");
+Collections.sort(list);
+
+for(String name:list)    
+    System.out.println(name);    
+}  
+
+
+List<String> lst = new ArrayList<String>(); 
+
+lst.add("Mango");  
+l.add("Banana");  
+l.add("Mango");  
+l.add("Apple");  
+System.out.println(l.toString());  
+Set<String> s = new LinkedHashSet<String>(l);  
+System.out.println(s);  
+
+
+}  
+//} 
+
+

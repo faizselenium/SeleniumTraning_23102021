@@ -1,0 +1,9 @@
+package collectionConcepts;
+
+public class StaticConcepts {
+
+	static {
+		System.out.println("called before main");
+	}
+	
+}

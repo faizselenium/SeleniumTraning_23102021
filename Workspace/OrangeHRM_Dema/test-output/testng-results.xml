@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62649" started-at="2021-03-24T06:08:19Z" finished-at="2021-03-24T06:09:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62649" started-at="2021-03-24T06:08:19Z" finished-at="2021-03-24T06:09:22Z">
+      <class name="Com.OrangeHRM.data_read_from_table">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Com.OrangeHRM.data_read_from_table@47c62251]" name="beforeTest" is-config="true" duration-ms="6421" started-at="2021-03-24T06:08:19Z" finished-at="2021-03-24T06:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="fTitleExtraction()[pri:0, instance:Com.OrangeHRM.data_read_from_table@47c62251]" name="fTitleExtraction" duration-ms="56196" started-at="2021-03-24T06:08:25Z" finished-at="2021-03-24T06:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fTitleExtraction -->
+        <test-method status="PASS" signature="afterTest1()[pri:0, instance:Com.OrangeHRM.data_read_from_table@47c62251]" name="afterTest1" is-config="true" duration-ms="1" started-at="2021-03-24T06:09:22Z" finished-at="2021-03-24T06:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest1 -->
+      </class> <!-- Com.OrangeHRM.data_read_from_table -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

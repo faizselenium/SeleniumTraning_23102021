@@ -1,0 +1,6 @@
+Feature: Login functionality
+Scenario: successfully loged in or not
+Given user name and Password
+When User provide the input 
+Then click on submit
+And Login successufull

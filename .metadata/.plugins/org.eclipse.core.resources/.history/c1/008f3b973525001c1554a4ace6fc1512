@@ -1,0 +1,17 @@
+package collectionConcepts;
+
+import java.util.Set;
+
+public class set {
+
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+
+		
+		Set<String> s1 = new  HashSet<String>();  
+		s1.add("A");
+		
+	}
+
+}

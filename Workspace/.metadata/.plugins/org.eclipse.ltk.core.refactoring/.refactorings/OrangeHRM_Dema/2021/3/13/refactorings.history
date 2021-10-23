@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TitleExtraction.java&apos; to &apos;OrangeHRM_Dema/src/test/java/Com.OrangeHRM&apos;&#x0D;&#x0A;- Original project: &apos;OrangeHRM_Dema&apos;&#x0D;&#x0A;- Destination element: &apos;OrangeHRM_Dema/src/test/java/Com.OrangeHRM&apos;&#x0D;&#x0A;- Original element: &apos;Com.OrangeHRM.TitleExtraction.java&apos;" description="Copy compilation unit" destination="/src\/test\/java&lt;Com.OrangeHRM" element1="/src\/test\/java&lt;Com.OrangeHRM{TitleExtraction.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1616418582152" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package collectionConcepts;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class collectionConcepts {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		List L1 = new List ();
+		//ArrayList
+
+	}
+
+}
